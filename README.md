@@ -22,6 +22,6 @@ I love tinkering and building stuff with new technologies.
 I use Python as my primary language, although I am well versed with Golang and Java. 
 I focus on backend development but have experimented with Machine Learning, App Development and Frontend in the past. 
 
-I have experience in Django, Flask and SpringBoot. I have also worked with Redis, Celery and databases like MySQL and PostgreSQL.
+I have experience in Django, Fast API and SpringBoot. I have also worked with Redis, Celery and databases like MySQL and PostgreSQL.
 
-Currently building things around GenAI. 
+Currently learning GoLang in my free time and building things using GenAI at my org. 
